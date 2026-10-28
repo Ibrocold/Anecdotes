@@ -78,4 +78,4 @@ npm run lint
 
 ## Notes
 
-This project is a simple front-end exercise inspired by the classic anecdote voting application pattern from full-stack React tutorials.
+This project is a simple front-end exercise inspired by the classic anecdote voting application pattern.
